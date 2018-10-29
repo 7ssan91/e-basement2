@@ -30,10 +30,7 @@
             ],
             "scripts": [
               "../E-basement/node_modules/jquery/dist/jquery.min.js",
-              "../E-basement/node_modules/bootstrap/dist/js/bootstrap.min.js",
-              "../E-basement/src/assets/js/jquery.validate.min.js",
-              "../E-basement/src/assets/js/blankon.sign.js",
-              "../E-basement/src/assets/css/chosen/chosen.jquery.min.js"
+              "../E-basement/node_modules/bootstrap/dist/js/bootstrap.min.js"
             ]
           },
           "configurations": {
